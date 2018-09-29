@@ -1,0 +1,5 @@
+1 express
+2 body-parser
+3 conect-multiparty
+4 mongoose
+5 nodemon
